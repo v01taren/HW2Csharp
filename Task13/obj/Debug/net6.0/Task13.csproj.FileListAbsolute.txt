@@ -1,0 +1,15 @@
+D:\GeekBrains\HomeWork2Csharp\Task13\bin\Debug\net6.0\Task13.exe
+D:\GeekBrains\HomeWork2Csharp\Task13\bin\Debug\net6.0\Task13.deps.json
+D:\GeekBrains\HomeWork2Csharp\Task13\bin\Debug\net6.0\Task13.runtimeconfig.json
+D:\GeekBrains\HomeWork2Csharp\Task13\bin\Debug\net6.0\Task13.dll
+D:\GeekBrains\HomeWork2Csharp\Task13\bin\Debug\net6.0\Task13.pdb
+D:\GeekBrains\HomeWork2Csharp\Task13\obj\Debug\net6.0\Task13.csproj.AssemblyReference.cache
+D:\GeekBrains\HomeWork2Csharp\Task13\obj\Debug\net6.0\Task13.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\HomeWork2Csharp\Task13\obj\Debug\net6.0\Task13.AssemblyInfoInputs.cache
+D:\GeekBrains\HomeWork2Csharp\Task13\obj\Debug\net6.0\Task13.AssemblyInfo.cs
+D:\GeekBrains\HomeWork2Csharp\Task13\obj\Debug\net6.0\Task13.csproj.CoreCompileInputs.cache
+D:\GeekBrains\HomeWork2Csharp\Task13\obj\Debug\net6.0\Task13.dll
+D:\GeekBrains\HomeWork2Csharp\Task13\obj\Debug\net6.0\refint\Task13.dll
+D:\GeekBrains\HomeWork2Csharp\Task13\obj\Debug\net6.0\Task13.pdb
+D:\GeekBrains\HomeWork2Csharp\Task13\obj\Debug\net6.0\Task13.genruntimeconfig.cache
+D:\GeekBrains\HomeWork2Csharp\Task13\obj\Debug\net6.0\ref\Task13.dll
